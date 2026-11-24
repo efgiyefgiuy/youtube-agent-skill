@@ -27,6 +27,21 @@ Your tics. The phrases that are yours. Keep them.
 Numbers I cannot show, results that are not mine, tools I have not used. Write them down so the
 skills refuse them for you instead of you catching it in the edit.
 
+## Halal filter
+
+Every skill reads this and refuses or rewrites anything that breaks it. Edit the list to match you.
+
+- No music with instruments. Sound effects and vocals-only nasheeds are fine.
+- No gambling, betting, loot-box promotion, interest-based schemes or speculative crypto.
+- No unrelated women on screen, no flirting or romance storylines.
+- No mockery of religion, no oaths on false claims, no lying titles (clickbait the video cannot back up).
+- No violence for its own sake, no cursing, no content aimed at scaring children.
+- Roblox and game footage only from scenes and avatars that fit the rules above.
+
+## My language
+
+Arabic, white dialect (Gulf-friendly), unless I say otherwise.
+
 ## My format
 
 Length, how a video opens, whether there is an intro, whether you swear, whether you appear on

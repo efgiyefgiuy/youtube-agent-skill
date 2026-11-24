@@ -61,6 +61,7 @@ because you have to say the words out loud.
 | `/yt-shorts` | The Shorts already inside a long video, with a new first line written for each. |
 | `/yt-seo` | The description, the tags that are worth having, and the three queries this should win. |
 | `/yt-chapters` | Chapters from a transcript, validated against YouTube's own rules so they render. |
+| `/yt-survival` | A Roblox survival-escalation Short (shelter, weakness, fix, repeat) as an Arabic voiceover script, halal-filtered. |
 | `/yt-audit` | The whole channel, ending in ONE fix rather than twenty. |
 
 ## The six tools
